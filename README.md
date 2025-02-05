@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in Python: the ZeroDivisionError. The `bug.py` file contains a function that does not handle the case where the denominator is zero. The `bugSolution.py` file demonstrates how to gracefully handle this scenario using exception handling.
